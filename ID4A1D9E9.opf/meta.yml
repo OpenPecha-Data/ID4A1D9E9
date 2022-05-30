@@ -1,0 +1,25 @@
+id: ID4A1D9E9
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:52:15.231105'
+last_modified: '2022-05-30T20:52:15.231132'
+parser: null
+source_metadata:
+  title: Geshe Chekhawa Yeshe Dorje
+  language: en
+  description: 'Texts by the famous Kadampa geshe Chekhawa Yeshe Dorje (''chad kha
+    ba ye shes rdo rje, 1101–1175):'
+  volume:
+    f3571:
+      title: Seven Points of Training the Mind According to the Great Vehicle
+      base_file: f3571.txt
+      order: 1
+      parent: null
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null

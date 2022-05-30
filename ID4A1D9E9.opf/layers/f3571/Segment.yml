@@ -1,0 +1,104 @@
+id: 3298fad7a10f45bdbee449870f1afe97
+annotation_type: Segment
+revision: '00001'
+annotations:
+  06c7e048169e48389381af9031dc9409:
+    span:
+      start: 0
+      end: 33
+    metadata: {}
+  8d50d186fc894b17a7d9ddb2d9e6f62d:
+    span:
+      start: 35
+      end: 75
+    metadata: {}
+  2433af8f5e1941d18d7a219b6af32f1f:
+    span:
+      start: 77
+      end: 97
+    metadata: {}
+  a8b0981da40047eba6365a846c7d76e8:
+    span:
+      start: 99
+      end: 133
+    metadata: {}
+  71274c019094429499a81e6c14f25829:
+    span:
+      start: 135
+      end: 155
+    metadata: {}
+  5e417da6246a4c1eb33a2d18a1471f6e:
+    span:
+      start: 157
+      end: 364
+    metadata: {}
+  2c85ca3378ae4741af6aea4f1f35a0ce:
+    span:
+      start: 366
+      end: 599
+    metadata: {}
+  05a4f7f2b3b44f21a9486952fcd373a1:
+    span:
+      start: 601
+      end: 657
+    metadata: {}
+  d5df78ed403041f1b92bfa473c2eed45:
+    span:
+      start: 659
+      end: 993
+    metadata: {}
+  2603a602afd4461cbdf32f39609f4043:
+    span:
+      start: 995
+      end: 1048
+    metadata: {}
+  44c1692d2a8740e8b550987871b1a223:
+    span:
+      start: 1050
+      end: 1231
+    metadata: {}
+  0c13bb162af046908fca474d89dc2cb4:
+    span:
+      start: 1233
+      end: 1265
+    metadata: {}
+  0d99eb26575d445d8e8a7a18f3549c56:
+    span:
+      start: 1267
+      end: 1454
+    metadata: {}
+  6767d13b4c0e4e55807eba117a54d6b5:
+    span:
+      start: 1456
+      end: 1491
+    metadata: {}
+  e79b764e958047978b8d9e7c240389d1:
+    span:
+      start: 1493
+      end: 2035
+    metadata: {}
+  022a7ce052224cc8bb1ae7e5ecb05025:
+    span:
+      start: 2037
+      end: 2070
+    metadata: {}
+  33a20eed5365405089a129664d03988a:
+    span:
+      start: 2072
+      end: 2857
+    metadata: {}
+  2e072dd6ab0f42de82c7f61e4e7614ef:
+    span:
+      start: 2859
+      end: 3275
+    metadata: {}
+  f59847985bd14da8afeb90ab7b9b6224:
+    span:
+      start: 3277
+      end: 3312
+    metadata: {}
+  d9381af7e6754b4cba6cd37e90502e25:
+    span:
+      start: 3314
+      end: 3335
+    metadata: {}
